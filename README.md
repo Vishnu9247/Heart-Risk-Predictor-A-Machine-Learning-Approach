@@ -24,4 +24,3 @@ Custom implementations of these models may be found in separate files (LogisticR
 #### Model Evaluation:
 Models are evaluated using metrics like accuracy, precision, recall, and F1-score.
 Cross-validation techniques and train-test splits are utilized to validate model performance.
-Deployment and Usage:
